@@ -1,0 +1,9 @@
+.body--bgchange {
+  background-image: url("/src/images/profile1.jpg");
+  background-repeat: inherit;
+  background-size: cover;
+}
+
+.password-button {
+  padding-top: 1rem;
+}

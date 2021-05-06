@@ -1,0 +1,41 @@
+#nav-bar {
+  background-image: linear-gradient(to bottom right, #ffce00, #fe4880);
+}
+
+#content {
+  position: fixed;
+  top: 133px;
+  left: 500px;
+}
+
+#content h3 {
+  position: absolute;
+  top: 199px;
+  left: 111px;
+}
+
+.homepage .view {
+  top: 25px;
+}
+
+.homeCards {
+  display: inherit;
+  margin-top: 0%;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #fd7e14 !important;
+  border-color: #fd7e14 !important;
+}
+
+.tableContainer {
+  width: 80%;
+  overflow-y: scroll;
+}
+.table {
+  width: 90% !important;
+  margin-bottom: 1rem;
+  color: #212529;
+  background-color: white;
+}
